@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
      <h1> Plant Project Start </h1>
-    <h2>dev브랜치 확인용</h2>
+    <h2>dev브랜치 확인용2</h2>
     </div>
   );
 }
